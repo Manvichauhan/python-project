@@ -1,0 +1,7 @@
+a = open(".vscode/file/sample.txt",'r')
+b = a.readline()
+print(b)
+b = a.readline()
+print(b)
+b = a.readline()
+print(b)
